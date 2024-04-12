@@ -1,0 +1,66 @@
+.cloud {
+  background-image: url('/img/weather/cloud.png') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.heavy {
+  background-image: url('/img/weather/heavy.png') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.rain {
+  background-image: url('/img/weather/rain.png') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.snow {
+  background-image: url('/img/weather/snow.png') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.sunny {
+  background-image: url('/img/weather/sunny.png') !important;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.round-bar {
+  background-image: url('/img/dashboard/roundBar.png');
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.hexagon {
+  width: 72px;
+  height: 84px;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.hexagon-white {
+  background-image: url('/img/dashboard/hexagon-white.png');
+}
+.hexagon-orange {
+  background-image: url('/img/dashboard/hexagon-orange.png');
+}
+.hexagon-green {
+  background-image: url('/img/dashboard/hexagon-green.png');
+}
+.round-box {
+  width: 84px;
+  height: 66px;
+  background-size: 84px 66px;
+  background-repeat: no-repeat;
+}
+.box-blue {
+  background-image: url('/img/dashboard/box-blue.png');
+}
+.box-orange {
+  background-image: url('/img/dashboard/box-orange.png');
+}
+.box-red {
+  background-image: url('/img/dashboard/box-red.png');
+}
+.box-skyblue {
+  background-image: url('/img/dashboard/box-skyblue.png');
+}
+.box-yellow {
+  background-image: url('/img/dashboard/box-yellow.png');
+}
